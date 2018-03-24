@@ -1,4 +1,4 @@
-Simple Use:
+Simple Instance:
 
 ```
 new RequestClient.Builder()
